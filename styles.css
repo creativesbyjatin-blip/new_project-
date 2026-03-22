@@ -1,0 +1,18 @@
+/* .box{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    height: 700px;
+    width: 700px;
+    background-color: yellow;
+    color: black;
+    object-fit:unset;
+
+}
+
+.hero-image{
+    display: flex;
+    position: relative;
+    width: 300px;
+    height: 200px;
+} */
